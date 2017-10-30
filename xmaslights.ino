@@ -9,8 +9,8 @@ const long interval = 1000;  // pause for two seconds
 int sensorValue = 0;
 
 
-const char ssid[] = "herotero";  //  your network SSID (name)
-const char pass[] = "innostunutsonni";       // your network password
+const char ssid[] = "";  //  your network SSID (name)
+const char pass[] = "";       // your network password
 
 IPAddress timeServer(62, 237, 86, 238);
 
